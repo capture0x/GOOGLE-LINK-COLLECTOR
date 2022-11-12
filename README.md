@@ -1,6 +1,6 @@
 # ♣️ &nbsp;  Google Link Collector &nbsp; ♣️
 
-<img src="https://i.imgur.com/YkueKKX.png" width="60%"></img>
+<img src="https://i.imgur.com/YkueKKX.png" width="80%"></img>
 
 
 #### Written by TMRSWRR 
