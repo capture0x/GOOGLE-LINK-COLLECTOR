@@ -1,4 +1,4 @@
-# ♣️ &nbsp;  Google Link Collector &nbsp; ♣️
+# 🤖 &nbsp;  Google Link Collector &nbsp; 🤖
 
 <img src="https://i.imgur.com/YkueKKX.png" width="80%"></img>
 
@@ -14,7 +14,7 @@
 
 ```bash
 git clone https://github.com/capture0x/GOOGLE-LINK-COLLECTOR/
-cd xShock
+cd GOOGLE-LINK-COLLECTOR
 pip3 install -r requirements.txt
 ```
 
