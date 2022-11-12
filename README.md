@@ -29,7 +29,7 @@ python3 google.py
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [https://github.com/capture0x/GOOGLE-LINK-COLLECTOR/issue](issues) here.
+For bug reports or enhancements, please open an [[https://github.com/capture0x/GOOGLE-LINK-COLLECTOR/issue](https://github.com/capture0x/GOOGLE-LINK-COLLECTOR/issues)](issues) here.
 
 
 
