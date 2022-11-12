@@ -23,3 +23,14 @@ pip3 install -r requirements.txt
 ```bash
 python3 google.py
 ```
+## Known Issues
+
+--
+
+## Bugs and enhancements
+
+For bug reports or enhancements, please open an [https://github.com/capture0x/GOOGLE-LINK-COLLECTOR/issue](issues) here.
+
+
+
+**Copyright 2022**
