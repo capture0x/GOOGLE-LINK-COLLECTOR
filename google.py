@@ -21,9 +21,8 @@ def search():
             hrefs = [link.get('href') for link in links]
             count+=10
             for i in hrefs:
-                print(random.choice(colors)+i)
+                print(i)
         print(random.choice(colors)+"Finished search...")
     except:
         print(random.choice(colors)+"Missing or wrong value!!!")
-
 search()
