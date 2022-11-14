@@ -18,6 +18,9 @@ cd GOOGLE-LINK-COLLECTOR
 pip3 install -r requirements.txt
 ```
 
+## 👇 :love_letter:  How to use  :love_letter: 👇
+
+[![How to use](https://i.imgur.com/oRk1h9S.png)](https://youtu.be/WE-gtPic2EY)
 ## Usage
 
 ```bash
